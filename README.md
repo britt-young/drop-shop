@@ -35,9 +35,9 @@ DB_PW='xxxxx'
 
 ### Application Demo:
 * create schema and seed data
-    ```md
-    ![demo](assets/images/screenshot.png)
-    ```
+    
+    ![demo](utils\sql-demo.gif)
+    
 
 * use GET routes to return all categories & all products
     ```md
