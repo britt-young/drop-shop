@@ -35,17 +35,17 @@ DB_PW='xxxxx'
 ### Application Demo:
 * create schema and seed data
     
-    ![demo](gifs\sql-demo.gif)
+    ![demo](gifs/sql-demo.gif)
     
 
 * use GET routes to return all categories & all products
     
-    ![demo](gifs\GET-demo.gif)
+    ![demo](gifs/GET-demo.gif)
     
 
 * use GET routes to return a single category, product, and tag
     
-    ![demo](gifs\GET_by_ID-demo.gif)
+    ![demo](gifs/GET_by_ID-demo.gif)
     
 
 * use POST, PUT, and DELETE routes for categories
@@ -55,12 +55,12 @@ DB_PW='xxxxx'
 
 * use POST, PUT, and DELETE routes for tags
     
-    ![demo](gifs\CRUD_tag-demo.gif)
+    ![demo](gifs/CRUD_tag-demo.gif)
     
 
 * use POST, PUT, and DELETE routes for products
     
-    ![demo](gifs\CRUD_products-demo.gif)
+    ![demo](gifs/CRUD_products-demo.gif)
     
 
 
